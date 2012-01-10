@@ -1,10 +1,10 @@
-This is the file on local machine(chamith) eke. edit kale mama
 
 meka maru kala
-dan wadada? , isuru - me mokada
+dan wadada? , chamith
 
 I add some lines and see it.
- add new line dammoooooo
+ add new line
+ how abut this aaaaa.....
 
 new line
 onna monawath damme naha
