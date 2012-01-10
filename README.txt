@@ -1,5 +1,6 @@
 This is the file on local machine.
 
-second new line.
+meka maru kala
+dan wadada?
 
 I add some lines to that.
