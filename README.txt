@@ -4,6 +4,6 @@ meka maru kala
 dan wadada? , isuru
 
 I add some lines to that.
- add new line agin
+ add new line
 
 new line
