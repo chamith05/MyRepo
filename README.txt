@@ -1,6 +1,4 @@
-
-
-This is the changed file on local 2nd time.
+This is the file on local machine.
 
 
 second new line.
