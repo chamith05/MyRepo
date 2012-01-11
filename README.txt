@@ -1,4 +1,4 @@
-This is a test file on github and local.
+This is a test file on github and local. edited locally
 we can edit this.
 this is 3rd line added by chamith.
 we are tring to merge code using git.
@@ -11,3 +11,5 @@ for(int i=0;i<100;i++)
      System.out.println("isuru");
 }
 new line from local - server
+
+new line
