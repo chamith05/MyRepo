@@ -1,4 +1,4 @@
-This is a test file on github and local machine. edited by Nadeeshan
+This is a test file on github and local. edited by me again
 we can edit this.
 this is 3rd line added by chamith.
 we are tring to merge code using git.

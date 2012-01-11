@@ -1,0 +1,9 @@
+this is readme2 file
+
+<<<<<<< HEAD
+second line - chamith
+=======
+second line (2nd)
+
+added from server
+>>>>>>> 2bff4a6c359bee61a12b7d9e8a90dca41ba6cfc2

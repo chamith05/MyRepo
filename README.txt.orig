@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-This is a test file on github and local. edited locally
+This is a test file on github and local machine. edited by Nadeeshan
 =======
-This is a test file on github and local. edited by Nadeeshan
->>>>>>> 1a4a2974cfd220d5e75d58be2183cbde34952cf5
+This is a test file on github and local. edited by me again
+>>>>>>> 2bff4a6c359bee61a12b7d9e8a90dca41ba6cfc2
 we can edit this.
 this is 3rd line added by chamith.
 we are tring to merge code using git.
@@ -13,8 +13,10 @@ for(int i=0;i<100;i++)
 {
      System.out.println("chamith weerasinghe");
      System.out.println("isuru");
-     System.out.println("Nadeeshan");
+<<<<<<< HEAD
+     System.out.println("hasala");
+=======
+     System.out.println("Shawn");
+>>>>>>> 2bff4a6c359bee61a12b7d9e8a90dca41ba6cfc2
 }
 new line from local - server
-
-new line
