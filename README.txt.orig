@@ -1,27 +1,15 @@
-This is the file on local machine(chamith) eke. edit kale mama
-
-meka maru kala
 <<<<<<< HEAD
-dan wadada? , isuru - me mokada
-
-I add some lines and see it.
- add new line dammoooooo
-
-new line
-onna monawath damme naha
-
-
-onna aluth ekak
+I add a new line to the file from local.
 =======
-dan wadada? , isuru 
+This is a test file on github server.
+we can edit this.
+this is 3rd line.
+we are tring to merge code using git.
+//this is a code
 
-I add some lines and see it.
- add new line
- how abut this aaaaa.....
-
-new line
-
-can you mearge this ,new line ekakuth damma
-onna monawath damme naha
- a u ok with this!!!
->>>>>>> 243e642e72d365a8fcc961ae54b96963e0b28199
+for(int i=0;i<100;i++)
+{
+     System.out.println("chamith weerasinghe");
+     
+}
+>>>>>>> 5ae5d90052685e8fe0214f3d7a6d1cad0f9d2f2d
