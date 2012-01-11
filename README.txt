@@ -1,6 +1,6 @@
 This is a test file on github server.
 we can edit this.
-this is 3rd line.
+this is 3rd line added by chamith.
 we are tring to merge code using git.
 //this is a code
 

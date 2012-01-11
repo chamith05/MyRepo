@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-I add a new line to the file from local.
-=======
 This is a test file on github server.
 we can edit this.
-this is 3rd line.
+this is 3rd line added by chamith.
 we are tring to merge code using git.
 //this is a code
 
@@ -12,4 +9,9 @@ for(int i=0;i<100;i++)
      System.out.println("chamith weerasinghe");
      
 }
->>>>>>> 5ae5d90052685e8fe0214f3d7a6d1cad0f9d2f2d
+<<<<<<< HEAD
+new line from local
+=======
+
+just new line
+>>>>>>> c13ee241d089da1bfe22ba60e4790362f16217e4
