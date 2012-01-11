@@ -1,4 +1,4 @@
-This is a test file on github and local. edited by Nadeeshan
+This is a test file on github and local machine. edited by Nadeeshan
 we can edit this.
 this is 3rd line added by chamith.
 we are tring to merge code using git.
@@ -9,6 +9,6 @@ for(int i=0;i<100;i++)
 {
      System.out.println("chamith weerasinghe");
      System.out.println("isuru");
-     System.out.println("Nadeeshan");
+     System.out.println("hasala");
 }
 new line from local - server
