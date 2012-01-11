@@ -1,13 +1,11 @@
+This is a test file on github server.
+we can edit this.
+this is 3rd line.
+we are tring to merge code using git.
+//this is a code
 
-meka maru kala
-dan wadada? , chamith
-
-I add some lines and see it.
- add new line
- how abut this aaaaa.....
-
-new line
-onna monawath damme naha
-
-
-onna aluth ekak
+for(int i=0;i<100;i++)
+{
+     System.out.println("chamith weerasinghe");
+     
+}
