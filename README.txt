@@ -9,3 +9,4 @@ for(int i=0;i<100;i++)
      System.out.println("chamith weerasinghe");
      
 }
+new line from local
