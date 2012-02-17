@@ -8,13 +8,15 @@ new line.
 
 for(int i=0;i<100;i++)
 {
-     System.out.println("chamith weerasinghe");
+     System.out.println("chamith weerasinghe edited today");
 <<<<<<< HEAD
      System.out.println("edit on local");
-     System.out.println("hasala");
+     System.out.println("edit on local machine");
 =======
-     System.out.println("isuru");
-     System.out.println("edit on server");
->>>>>>> 2d20f516527e2c04affb32b9bc542d6e2959aea0
+     System.out.println("edit on local, but now from server");
+     System.out.println("edit on server, now see it");
+>>>>>>> 110a70b8fa7ffbff203993df4e55e212f6946099
 }
 new line from local machine.
+
+edited
