@@ -9,7 +9,7 @@ new line.
 for(int i=0;i<100;i++)
 {
      System.out.println("chamith weerasinghe edited today");
-     System.out.println("edit on local but now from server");
-     System.out.println("edit on server");
+     System.out.println("edit on local, but now from server");
+     System.out.println("edit on server, now see it");
 }
 new line from local machine.
