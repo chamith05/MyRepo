@@ -10,6 +10,6 @@ for(int i=0;i<100;i++)
 {
      System.out.println("chamith weerasinghe");
      System.out.println("isuru");
-     System.out.println("hasala");
+     System.out.println("edit on server");
 }
 new line from local machine.
