@@ -9,7 +9,7 @@ new line.
 for(int i=0;i<100;i++)
 {
      System.out.println("chamith weerasinghe");
-     System.out.println("isuru");
+     System.out.println("edit on local");
      System.out.println("hasala");
 }
 new line from local machine.
