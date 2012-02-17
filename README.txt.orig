@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 This is a test file on github local. edited by chamith
-=======
-This is a test file on github server. edited by chamith again
->>>>>>> 9647352dbee8e8c4fcdb48b2f8a3e8c3db5bda98
 we can edit this.
 this is 3rd line added by chamith.
 add a line again
@@ -13,11 +9,12 @@ new line.
 for(int i=0;i<100;i++)
 {
      System.out.println("chamith weerasinghe");
-     System.out.println("isuru");
 <<<<<<< HEAD
-     System.out.println("nilanga");
+     System.out.println("edit on local");
+     System.out.println("hasala");
 =======
-     System.out.println("shawn");
->>>>>>> 9647352dbee8e8c4fcdb48b2f8a3e8c3db5bda98
+     System.out.println("isuru");
+     System.out.println("edit on server");
+>>>>>>> 2d20f516527e2c04affb32b9bc542d6e2959aea0
 }
 new line from local machine.
